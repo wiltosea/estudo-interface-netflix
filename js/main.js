@@ -1,0 +1,1 @@
+// Arquivo principal com o Javascript da página
