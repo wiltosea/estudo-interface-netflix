@@ -1,2 +1,2 @@
-# estudo-interface-netflix
-Projeto desenvolvido durante um bootcamp, usando html, css e JQuery.
+# netflix-clone
+ Estudo de front-end e UI para uma página inicial do netflix
